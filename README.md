@@ -81,7 +81,7 @@ Precision/Recall:
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/tinder-match-predictor.git
+git clone https://github.com/Max-Ola/Tinder-Matching-Prediction
 cd tinder-match-predictor
 ```
 
