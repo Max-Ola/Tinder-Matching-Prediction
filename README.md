@@ -1,4 +1,5 @@
 💘 Tinder Match Prediction using Machine Learning
+
 A fun and practical machine learning project that predicts whether two Tinder users will match based on their profile characteristics like age, interests, proximity, and perceived attractiveness.
 
 ⚠️ Disclaimer: This is a hypothetical project using synthetic data. No real user data is used.
@@ -57,10 +58,13 @@ Seaborn, Matplotlib
 1. Clone the repo
 git clone https://github.com/yourusername/tinder-match-predictor.git
 cd tinder-match-predictor
-2. Install dependencies
+
+3. Install dependencies
 pip install -r requirements.txt
-3. Run the model
+
+4. Run the model
 python tinder_match_predictor.py
+
 📁 File Structure
 📦 tinder-match-predictor
 ├── README.md
