@@ -1,7 +1,3 @@
-Perfect! Here's a clean GitHub-style write-up you can drop into a `README.md` file for your Tinder Match Prediction project. It's written to showcase your skills, structure, and thought process to any recruiter, collaborator, or curious visitor.
-
----
-
 # 💘 Tinder Match Prediction using Machine Learning
 
 A fun and practical machine learning project that predicts whether two Tinder users will match based on their profile characteristics like age, interests, proximity, and perceived attractiveness.
@@ -133,7 +129,7 @@ python tinder_match_predictor.py
 
 **Maxwel Olande**  
 DevOps | Cloud | ML Hobbyist  
-[LinkedIn](https://linkedin.com/in/maxwelolande) | [Twitter](https://twitter.com/yourhandle)
+[LinkedIn](https://linkedin.com/in/maxwelolande) | [Twitter](https://twitter.com/MaxUrus254)
 
 ---
 
@@ -142,5 +138,3 @@ DevOps | Cloud | ML Hobbyist
 MIT License. Use it, remix it, have fun.
 
 ---
-
-Want me to package this into a ZIP with all files (README, `.py`, `requirements.txt`, etc.)?
